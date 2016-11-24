@@ -1,1 +1,3 @@
-hjjj
+<?php
+
+echo "hello testing";
